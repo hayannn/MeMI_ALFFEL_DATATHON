@@ -27,8 +27,8 @@ ICU 내 항생제 치료 전략 및 다제내성균(MDR) 감염의 치료 성공
 
 ## 노트북 정보
 - Subject 01.
-  - [keyword1차필터링]_MeMI_ICU_Analysis.ipynb : 항셍제 리스트업 1차 필터링 진행 노트북
-  - [keyword2차필터링+Optuna튜닝]_MeMI_ICU_Analysis.ipynb : 항생제 리스트업 2차 필터링 진행 + Optuna 튜닝 진행 노트북
+  - `[keyword1차필터링]_MeMI_ICU_Analysis.ipynb` : 항생제 리스트업 1차 필터링 진행 노트북
+  - `[keyword2차필터링+Optuna튜닝]_MeMI_ICU_Analysis.ipynb` : 항생제 리스트업 2차 필터링 진행 + Optuna 튜닝 진행 노트북
 
 - Subject 02.
   - 노트북 정보 기입
