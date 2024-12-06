@@ -107,3 +107,6 @@ ICU 내 항생제 치료 전략 및 다제내성균(MDR) 감염의 치료 성공
 
 - Subject 02.
   - ♻️ `[v3]project_2_temp.ipynb` : 중환자실 내 다제내성균(MDR) 감염 치료 효과 분석 진행 노트북
+
+- Info_MIMIC
+  - `MeMI_EDA.ipynb` : EDA 관련 코드 및 시각화 진행 노트북
