@@ -72,12 +72,30 @@ ICU 내 항생제 치료 전략 및 다제내성균(MDR) 감염의 치료 성공
 ## 저장소 구조
 ```
 ├── 📑 README.md
+|
+├── 🗂 Info_MIMIC
+|    └── 📑 MeMI_EDA.ipynb
+|
 ├── 🗂 Subject01
 |    ├── 📑 [keyword1차필터링]_MeMI_ICU_Analysis.ipynb
 |    └── 📑 [keyword2차필터링+Optuna튜닝]_MeMI_ICU_Analysis.ipynb
 |
-└── 🗂 Subject02
-     └── 📑 [v3]project_2_temp.ipynb
+├── 🗂 Subject02
+|    └── 📑 [v3]project_2_temp.ipynb
+|
+└── 🗂 docs
+     └── 🗂 TIL
+     |    ├── 📑 TIL_241203_MIMIC_III_주제_관련_지표_분석.pdf
+     |    ├── 📑 TIL_241204_ICU_환자의_항생제_사용과_치료_성공률_분석__다제내성균(MDR)_감염_치료_효과_분석.pdf
+     |    ├── 📑 TIL_241204_SOFA.pdf
+     |    ├── 📑 TIL_241204_중환자실에서의_다제내성균(MDR)_감염_치료_효과_분석.pdf
+     |    ├── 📑 TIL_241205_Optuna_튜닝_적용(주제1).pdf
+     |    └── 📑 TIL_241205_PPT_내용.pdf
+     |
+     ├── 📑 [Intro]MIMIC-III_Information_upload.pdf
+     └── 📑 [MeMI]ICU_항생제치료전략_MDR_치료성공률.pdf
+
+
 ```
 
 <br>
