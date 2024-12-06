@@ -3,10 +3,52 @@
 
 <br>
 
-## 팀원 소개
-| [👑안동균]() | [김가경]() | [이하얀](https://github.com/hayannn) | [손지현]() |
-|:-----------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------:|
-|  ![안동균](https://github.com/user-attachments/assets/9b93a4cb-722d-4196-b537-5488c663c1e5)  |  ![image](https://github.com/user-attachments/assets/525cd00d-a760-46bb-9b3f-637b1e1cd196) | ![image](https://github.com/user-attachments/assets/fb2de7ba-8053-48b0-8529-0778a1b8cac7)  | ![image](https://github.com/user-attachments/assets/56537ffe-17e9-45ed-81ab-6e88da523c27) |
+## 팀원
+<table>
+  <tr>
+    <td>
+        <a href="https://github.com/KIID4">
+         <img src = "https://avatars.githubusercontent.com/u/23628584?v=4" width="100px" />  
+        </a>
+    </td>
+   <td>
+        <a href="https://github.com/kakyungkim">
+         <img src = "https://avatars.githubusercontent.com/u/84395053?v=4" width="100px" />  
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/hayannn">
+         <img src = "https://avatars.githubusercontent.com/u/102213509?v=4" width="100px" />  
+        </a>
+    </td>
+   <td>
+        <a href="https://github.com/Jihyeon3717">
+         <img src = "https://avatars.githubusercontent.com/u/184886431?v=4" width="100px" />  
+        </a>
+    </td>
+  </tr>
+  <tr>
+    <td><b>👑안동균</b></td>
+    <td><b>김가경</b></td>
+    <td><b>이하얀</b></td>
+    <td><b>손지현</b></td>
+  </tr>
+   <td><a href="https://github.com/KIID4">KIID4</a></td>
+    <td><a href="https://github.com/kakyungkim">kakyungkim</td>
+    <td><a href="https://github.com/hayannn">hayannn</td>
+    <td><a href="https://github.com/Jihyeon3717">Jihyeon3717</td>
+  </tr>
+   <tr>
+   <td><a href="https://velog.io/@kiid4/posts"/>velog</td>
+    <td> - </td>
+    <td><a href="https://velog.io/@dlgkdis801"/>velog</td>
+    <td> - </td>
+    
+  </tr>
+</table>
+
+
+
 
 
 <br>
