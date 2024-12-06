@@ -25,6 +25,21 @@ ICU 내 항생제 치료 전략 및 다제내성균(MDR) 감염의 치료 성공
 
 <br>
 
+<br>
+
+## 저장소 구조
+```
+├── 📑 README.md
+├── 🗂 Subject01
+|    ├── 📑 [keyword1차필터링]_MeMI_ICU_Analysis.ipynb
+|    └── 📑 [keyword2차필터링+Optuna튜닝]_MeMI_ICU_Analysis.ipynb
+|
+└── 🗂 Subject02
+     └── 📑 [v3]project_2_temp.ipynb
+```
+
+<br>
+
 ## 노트북 정보
 - Subject 01.
   - `[keyword1차필터링]_MeMI_ICU_Analysis.ipynb` : 항생제 리스트업 1차 필터링 진행 노트북
